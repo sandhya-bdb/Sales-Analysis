@@ -1,5 +1,6 @@
 # Sales-Analysis
 🧾 AAL Q4 2020 Sales Analysis – Australia
+
 📊 Project Overview
 This project presents an in-depth sales analysis for AAL, a prominent Australian clothing brand established in 2000. Catering to a diverse demographic—including kids, women, men, and seniors—AAL has expanded its presence across various states, metropolises, and tier-1 and tier-2 cities in Australia.
 
