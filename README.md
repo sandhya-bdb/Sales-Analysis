@@ -17,10 +17,6 @@ This repository contains a comprehensive analysis of AAL’s sales performance i
 - [Tools & Technologies](#🛠️-tools-technologies)
 - [Methodology](#🔍-methodology)
 - [Insights & Findings](#📊-insights-findings)
-- [Usage](#⚙️-usage)
-- [Contributing](#🤝-contributing)
-- [License](#license)
-- [Acknowledgements](#🧠-acknowledgements)
 
 ---
 
