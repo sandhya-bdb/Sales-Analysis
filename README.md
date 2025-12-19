@@ -5,7 +5,7 @@
 ## 📌 Overview
 
 Provide a concise description of your project here.  
-This repository contains a comprehensive analysis of AAL’s sales performance in Q4 2020, identifying key trends, high-performing markets, and strategic recommendations.
+This repository contains a comprehensive analysis of AAL’s (Australian Clothing Brand) sales performance in Q4 2020, identifying key trends, high-performing markets, and strategic recommendations.
 
 ---
 
